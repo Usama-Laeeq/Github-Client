@@ -4,10 +4,7 @@
 
 A flutter github application having following features 
 
--Authenticate to GitHub
--Retrieve data from GitHub
--Create a Flutter plugin for Windows, macOS, and/or Linux
--Develop a Flutter UI hot reloading into a native desktop application
+Authenticate to GitHub,Retrieve data from GitHub,Create a Flutter plugin for Windows, macOS, and/or Linux,Develop a Flutter UI hot reloading into a native desktop application
 
 Codelab link : https://codelabs.developers.google.com/codelabs/flutter-github-client?hl=en#0
 
