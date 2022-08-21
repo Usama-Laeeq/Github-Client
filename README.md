@@ -1,17 +1,16 @@
 # github_client
 
-A new Flutter project.
+# github_client
 
-## Getting Started
+A flutter github application having following features 
 
-This project is a starting point for a Flutter application.
+-Authenticate to GitHub
+-Retrieve data from GitHub
+-Create a Flutter plugin for Windows, macOS, and/or Linux
+-Develop a Flutter UI hot reloading into a native desktop application
 
-A few resources to get you started if this is your first Flutter project:
+Codelab link : https://codelabs.developers.google.com/codelabs/flutter-github-client?hl=en#0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="1440" alt="Screenshot 2022-08-21 at 4 49 35 PM" src="https://user-images.githubusercontent.com/57287126/185789570-2b6b5f7e-069d-4321-ba70-b5076616841f.png">
+<img width="1440" alt="Screenshot 2022-08-21 at 4 50 15 PM" src="https://user-images.githubusercontent.com/57287126/185789575-a8c598f9-00c7-482c-8514-05b85e711861.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Github-Client
